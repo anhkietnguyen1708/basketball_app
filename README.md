@@ -8,3 +8,4 @@ Học máy cá nhân hóa: Ứng dụng sẽ học thói quen và tiến độ c
 Tích hợp Apple HealthKit: Đồng bộ dữ liệu tập luyện, nhịp tim, lượng calo tiêu thụ.
 Giao diện người dùng SwiftUI động: Hiển thị biểu đồ tiến độ, so sánh động tác cũ và mới, và phản hồi chi tiết từ AI một cách trực quan.
 Lợi ích cộng đồng: Giúp mọi người tập luyện an toàn, hiệu quả hơn ngay tại nhà hoặc phòng gym mà không cần huấn luyện viên cá nhân, đặc biệt hữu ích cho người mới bắt đầu hoặc người muốn cải thiện kỹ thuật.
+
