@@ -113,3 +113,6 @@ struct PlayerDetailView: View {
         .navigationBarTitleDisplayMode(.inline)
     }
 }
+
+
+

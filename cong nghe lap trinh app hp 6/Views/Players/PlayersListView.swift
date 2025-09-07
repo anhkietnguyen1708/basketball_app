@@ -19,7 +19,7 @@ struct PlayersListView: View {
                 }
             }
         }
-        .navigationTitle("Back")
+        .navigationTitle("Cầu Thủ")
     }
 }
 
