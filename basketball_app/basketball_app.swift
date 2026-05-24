@@ -2,7 +2,7 @@
 import SwiftUI
 
 @main
-struct cong_nghe_lap_trinh_app_hp_6App: App {
+struct basketball_app: App {
     var body: some Scene {
         WindowGroup {
             MainTabView()
